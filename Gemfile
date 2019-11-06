@@ -34,7 +34,6 @@ gem 'sendgrid-ruby'
 gem 'date_validator'
 gem 'devise'
 
-gem 'rails'
 gem 'puma'
 gem 'sass-rails'
 gem 'uglifier'
