@@ -34,13 +34,9 @@ gem 'sendgrid-ruby'
 gem 'date_validator'
 gem 'devise'
 
-gem 'puma'
-gem 'sass-rails'
-gem 'uglifier'
-gem 'coffee-rails'
+
 gem 'jquery-rails'
-gem 'turbolinks'
-gem 'jbuilder'
+
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
